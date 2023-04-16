@@ -1,2 +1,15 @@
 # pandas-challenge
-Module 4
+
+
+A total of 15 schools were analyzed for test results in the area of mathematics and reading for high school students grades from 9th to 12th. The analysis covers what the students averages scores were for math and reading and what were the passing scores and percents for students above 70 in the mentioned areas. Out of the 15 schools, 8 of them are Charter type while the remaining 7 are District type. In addition, budget amounts and school size (student counts) were also looked at to help point out any correlation in regards to the final analysis.
+
+The student count for the Distric and Charter schools are 26,976 and 12,194 respectively. The budgets are $17,347,923 for the District while the Charter budget is $7,301,505. This in general states that Discrict schools have a per student budget of $643 vs Charter at $599, although in the analysis each school has its own budget per student for further details. With the results of this analysis an observation can be made in regards to if the "per student spend" equates to a better passing or scoring grades. The analysis also helps to compare if school size also has any impact in students overall performance.
+
+Charter schools showed that 89% of the students had an overall passing in both subjects of 70% scoring while the Districts under performed to about 55%. What really interesting is that the Math scores for the District are very "tight" on an average of about 77% per school and the Charter showed the same "tightness" per school but with an 83.5%. Meaning that the Charter schools in general are having the students score about 7 points higher in math. In regards to reading, the same "tightness" can be seen in both school types, but with a variance of under 2.75 points and not 7 like in math. This means that the math program is superior in Charter than District schools and the reading program is much closer to being about the same.
+
+Another interesting observation is that the average math scores in the District are higher than the passing over 70%. While the Charter is showing the opposite, the over 70% passing is higher than the average math score. In the reading aspect, the District average reading scores remain just about the same as the passing over 70%, while the Charter just like in the math area is showing a better over 70% results than the average score. 
+
+So, without question, this analysis is showing that the Charter are yielding a better education than the District schools. Since there are far more students in the District schools compared to the Charter, its probable that there are more students in a single class for one teacher than in the Charter school, so it would be interesting to determine student per teacher ratio. Lastly, in regards to the budget...having a budget per student of $643 with a passing of 55% in the District vs $599 with a passing of 89% should emphasize that spending more does not equate a "better" education. So, the District should look on how is the budget being spend and make the necessary changes to allocate in such a way that the student is benefiting from it thru an enhacement of grades.
+
+
+
